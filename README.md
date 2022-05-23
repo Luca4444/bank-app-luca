@@ -1,4 +1,4 @@
-Bank App Luca
+#Bank App Luca
 
 Description:
 This project is the capstone full-stack project for the MIT course I took in 2021-2022. It shows my growth as a full-stack programmer and portrays a very simple and well made example of a MERN app.
